@@ -6,7 +6,7 @@ export default ({ mode }: { mode: any }) => {
   const env = loadEnv(mode, process.cwd());
   // https://vitejs.dev/config/
   return defineConfig({
-    base: "https://pages.github.com/danplubell/react-datepicker-poc-external/",
+    base: "https://danplubell.github.io/react-datepicker-poc-external/",
     plugins: [react()],
     define: {
       "process.env.NODE_ENV": JSON.stringify(env.NODE_ENV),

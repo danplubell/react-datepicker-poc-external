@@ -5,7 +5,7 @@
   "description": "",
   "author": "",
   "main": "src/index",
-  "homepage": "https://pages.github.com/danplubell/react-datepicker-poc-external/",
+  "homepage": "https://danplubell.github.io/react-datepicker-poc-external/",
   "scripts": {
     "clean:install": "rimraf node_modules && rm pnpm-lock.yaml && pnpm install",
     "remove-demo": "npm-run-all --parallel removeDemo:*",
