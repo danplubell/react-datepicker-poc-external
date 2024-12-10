@@ -1,1 +1,2 @@
-# react-datepicker-poc-external
+# interstate-starter-typescript-application
+Template for creating a typescript Interstate application
